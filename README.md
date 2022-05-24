@@ -5,5 +5,5 @@ A cargo de:
 Ricardo Coppo
 
 Desarrollado por:
-Marcia Belen Alvarez
+Marcia Belen Alvarez,
 Stefano D'Annunzio
