@@ -30,4 +30,9 @@
   <ItemGroup>
     <Font Include="arial.ttf" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="testHeader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
